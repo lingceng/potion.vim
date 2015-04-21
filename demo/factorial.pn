@@ -1,11 +1,15 @@
+# factorial 阶乘
 factorial = (n):
   total = 1
   n to 1 (i):
     total *= i.
   total.
 
-10 times (i):
+1.234e+2 print
+"\n\n" print
+
+0x10 times (i):
   i string print
-  '! is: ' print
+  '!' print
   factorial (i) string print
   "\n" print.
